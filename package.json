@@ -6,7 +6,7 @@
     "@mdi/js": "^5.9.55",
     "@mdi/react": "^1.4.0",
     "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.1.0",
+    "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.1.10",
     "classnames": "^2.2.6",
     "nuka-carousel": "^4.7.5",
